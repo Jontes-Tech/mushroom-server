@@ -1,6 +1,6 @@
 # Mushroom Server
 
-An open-source alternative to Firebase, witch goal is to make it easy for people to set up and start developing their dream app.
+An open-source alternative to Firebase, which goal is to make it easy for people to set up and start developing their dream app.
 
 This is my first open-source project so be nice!
 
@@ -40,11 +40,11 @@ To run this project, you will need to add the following environment variables to
 
 ## Todo
 
-- Api routes for more things like WebSocket for server status storage and more.
+- API routes for more things like WebSocket for server status storage and more.
 - Clean up the database handler located at src/db/index.js
 - Fix the auth handler at routes/auth
 - Ad auth actions in src/auth
-- Make a api request that the user can submit a js file and it stores it in the db and starts a cronjob with that file
+- Make a API request that the user can submit a js file and it stores it in the db and starts a cronjob with that file
 - More to come
 
 ## API Reference
