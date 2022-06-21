@@ -34,16 +34,16 @@ Start the server
 
 To run this project, you will need to add the following environment variables to your .env file. Theas are temporary and will be modifyed in the future with email smtp config and more.
 
-`DATABASE_URL`
+`DB_USER`
+`DB_HOST`
+`DB_DATABASE`
+`DB_PASSWORD`
+`DB_PORT`
 
 `JWT_SECRET`
 
 ## Todo
 
-- Api routes for more things like WebSocket for server status storage and more.
-- Clean up the database handler located at src/db/index.js
-- Fix the auth handler at routes/auth
-- Ad auth actions in src/auth
 - Make a api request that the user can submit a js file and it stores it in the db and starts a cronjob with that file
 - More to come
 
