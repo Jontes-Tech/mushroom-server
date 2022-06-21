@@ -1,6 +1,6 @@
 # Mushroom Server
 
-An open-source alternative to Firebase, witch goal is to make it easy for people to set up and start developing their dream app.
+An open-source alternative to Firebase, which goal is to make it easy for people to set up and start developing their dream app.
 
 This is my first open-source project so be nice!
 
