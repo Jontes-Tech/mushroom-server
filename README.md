@@ -56,6 +56,8 @@ There are no real API request but will be added in the future.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started. ( Not available yet feel free to fix it.)
+See `contributing.md` for ways to get started.
 
-I haven't selected a license but feel free to give ideas in issues .
+## License
+
+[LGPL](https://choosealicense.com/licenses/lgpl-3.0/)
