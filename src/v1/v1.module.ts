@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { RouterModule, Routes } from 'nest-router';
 
-import { HomeController } from './home.controller';
+import { HomeController } from '../v1/home.controller';
 
 import { DbModule } from './db/db.module';
 
@@ -26,7 +26,6 @@ const routes: Routes = [
 
 @Module({
   imports: [
-    
     AuthModule,
     CronjobModule,
     RouterModule.forRoutes(routes),
